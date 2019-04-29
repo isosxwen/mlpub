@@ -2,7 +2,7 @@ name: environment
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.6
   - numpy
   - pip:
     - nbgitpuller
